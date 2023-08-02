@@ -1,4 +1,4 @@
-LBXWBCSI,LBXLYPCT,LBXMOPCT,LBXNEPCT,LBXEOPCT,LBXBAPCT,LBXRBCSI,LBXHGB,LBXMCVSI,LBXRDW,LBXPLTSI,LBXMPSI,age,education,male,female,sleep,alcohol,diet,vigorous activity,moderate activity,smoking,SBP,DBP,weight,diabetes,cholesterol_HDL,triglycerides,cholesterol_LDL,depression
+WBC count,Lymphocyte %,Monocyte %,Segmented neutrophils %,Eosinophil %,Basophil %,RBC count,Hemoglobin,Mean cell vol,RBC dist width,Platelet count,Mean platelet vol,age,education,male,female,sleep,alcohol,diet,vigorous activity,moderate activity,smoking,SBP,DBP,weight,diabetes,cholesterol_HDL,triglycerides,cholesterol_LDL,depression
 6.5,18.8,9.6,68.7,2.4,0.4,4.48,14.4,97.2,12.4,237.0,8.8,79,3,1,0,8,3,2,1,1,0,144,74,85.0,0.0,81,50,90,0
 8.0,25.6,5.9,62.2,5.1,1.2,4.73,15.9,98.6,12.2,292.0,8.8,71,4,1,0,9,2,5,0,1,2,154,74,69.2,0.0,71,88,110,0
 9.5,27.3,7.6,62.3,2.3,0.4,5.3,16.3,92.1,12.5,337.0,7.4,37,4,1,0,4,2,3,0,1,2,144,80,129.9,0.0,37,325,100,0
